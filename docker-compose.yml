@@ -10,3 +10,4 @@ services:
       - POSTGRES_DATABASE=POSTGRES_DB
       - POSTGRES_USER=app
       - POSTGRES_PASSWORD=9mREsvXDs9Gk89Ef
+      
